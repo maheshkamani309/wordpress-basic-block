@@ -1,1 +1,1 @@
-# wordpress-basic-block
+# WordPress Basic Block
